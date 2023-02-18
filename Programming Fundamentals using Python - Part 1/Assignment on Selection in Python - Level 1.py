@@ -3,6 +3,7 @@
 def find_product(num1,num2,num3):
     product=0
     #write your logic here
+    
 
     if(num3 == 7):
         return -1
